@@ -1,0 +1,128 @@
+.elementor-1165 .elementor-element.elementor-element-5686d439 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-1165 .elementor-element.elementor-element-5686d439{padding:50px 0px 50px 0px;}.elementor-1165 .elementor-element.elementor-element-6ce31731 > .elementor-column-wrap > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:30px;}.elementor-1165 .elementor-element.elementor-element-c925f5 .elementor-heading-title{color:#29023E;font-family:"SFProDisplay", Sans-serif;font-size:50px;font-weight:500;line-height:1.3em;}.elementor-1165 .elementor-element.elementor-element-4cbc8828{color:#3A3A3A;font-family:"SFProDisplay", Sans-serif;font-size:20px;font-weight:200;}.elementor-1165 .elementor-element.elementor-element-36f36f2d{text-align:right;}.elementor-1165 .elementor-element.elementor-element-36f36f2d .elementor-image img{width:100%;}.elementor-1165 .elementor-element.elementor-element-b1759dd{margin-top:0px;margin-bottom:50px;}.elementor-1165 .elementor-element.elementor-element-9dd65ec .elementor-icon-list-icon i{font-size:14px;}.elementor-1165 .elementor-element.elementor-element-9dd65ec .elementor-icon-list-icon svg{width:14px;}.elementor-1165 .elementor-element.elementor-element-9dd65ec .elementor-icon-list-item{font-family:"SFProDisplay", Sans-serif;font-weight:200;}.elementor-1165 .elementor-element.elementor-element-cdf7f21{text-align:center;}.elementor-1165 .elementor-element.elementor-element-cdf7f21 .elementor-image img{width:100%;max-width:800px;}body.elementor-page-1165 h1.entry-title, .elementor-page-title{display:none;}@media(max-width:1024px){.elementor-1165 .elementor-element.elementor-element-5686d439{padding:50px 20px 50px 20px;}.elementor-1165 .elementor-element.elementor-element-c925f5 .elementor-heading-title{font-size:35px;}.elementor-1165 .elementor-element.elementor-element-4cbc8828{font-size:16px;}}@media(max-width:767px){.elementor-1165 .elementor-element.elementor-element-5686d439{padding:30px 20px 30px 20px;}.elementor-1165 .elementor-element.elementor-element-c925f5 .elementor-heading-title{font-size:30px;}.elementor-1165 .elementor-element.elementor-element-4cbc8828{font-size:13px;}.elementor-1165 .elementor-element.elementor-element-9dd65ec .elementor-icon-list-icon i{font-size:16px;}.elementor-1165 .elementor-element.elementor-element-9dd65ec .elementor-icon-list-icon svg{width:16px;}}/* Start custom CSS for html, class: .elementor-element-43e9b41 */.elementor-1165 .elementor-element.elementor-element-43e9b41 table {
+    border-collapse: collapse;margin-bottom: 0;
+}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 table td {
+    background-color: transparent; border: none; margin: 0; padding: 0;
+    line-height: 1em; vertical-align: middle;
+}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 table.mainTable{
+    width: 100%; margin: 0 auto; min-width: 1050px; max-width: 1150px;
+}
+
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .topLeftHeader{
+    background-color: #efefef;
+    border-top-right-radius: 15px 15px;
+    border-bottom-right-radius: 15px 15px;
+    border-right: 5px solid #fff;
+}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .featuresPackPricing{font-size: 30px; font-weight: bold; text-align: center;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .tickIcon {max-width: 20px; text-align: center; margin: 0 auto;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .menewLogo {max-width: 70px; text-align: center; margin: 0 auto;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .redHighlight{font-size: 12px; color: #ed1c24;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .greenHighlight{font-size: 15px; color: #06BF5B;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .featureText{font-size: 15px; line-height: 20px;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .priceHighlightBig{font-size: 15px; color: #ed1c24; font-weight: bold;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .featureName{font-weight: bold; text-align: left; padding: 10px 10px 10px 10px;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .pricingName{font-size: 25px;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .centerAlign{text-align: center;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .leftAlign{text-align: left;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .rightAlign{text-align: right;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .bold{font-weight: bold;}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .greenBg{background-color: #def5e5;border-right: 5px solid #fff;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .blueBg{background-color: #e1f4f9;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .green2Bg{background-color: #e3eed7;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .greyBg{background-color: #f9f9f9;}
+
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .pricignHeaderBlue{
+     background-image: url('../../2020/06/bg1.png');
+     background-repeat: no-repeat;
+     background-position: top center;
+     background-size: contain;
+     padding: 10px 20px 30px 20px;
+ }
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .pricignHeaderGreen{
+    background-image: url('../../2020/06/bg2.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+     background-size: contain;
+     padding: 10px 20px 30px 20px;
+}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .pricignHeaderDarkGreen{
+    background-image: url('../../2020/06/bg3.png');
+    background-repeat: no-repeat;
+    background-position: top center;
+     background-size: contain;
+     padding: 10px 20px 30px 20px;
+}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .price{color: #fff; font-weight: bold; font-size: 20px; line-height: 21px; }
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .setupprice{color: #fff; font-weight: bold; font-size: 18px; line-height: 1.2em;}
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .paymentType{color: #fff; font-size: 11px;line-height: 1.2em; }
+
+
+
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 table.borderManTable td{
+    border: 1px solid #babbbb;
+    padding: 15px 10px 15px 10px;
+}
+
+.elementor-1165 .elementor-element.elementor-element-43e9b41 .borderThickWhite{border-right: 5px solid #fff;}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'SFProDisplay';
+	font-style: normal;
+	font-weight: bold;
+	font-display: auto;
+	src: url('../../2020/05/SFProDisplay-Bold.eot');
+	src: url('../../2020/05/SFProDisplay-Bold.eot#iefix') format('embedded-opentype'),
+		url('../../2020/05/SFProDisplay-Bold.woff2') format('woff2'),
+		url('../../2020/05/SFProDisplay-Bold.woff') format('woff'),
+		url('../../2020/05/SFProDisplay-Bold.ttf') format('truetype'),
+		url('../../2020/05/SFProDisplay-Bold.svg#SFProDisplay') format('svg');
+}
+@font-face {
+	font-family: 'SFProDisplay';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2020/05/SFProDisplay-Semibold.eot');
+	src: url('../../2020/05/SFProDisplay-Semibold.eot#iefix') format('embedded-opentype'),
+		url('../../2020/05/SFProDisplay-Semibold.woff2') format('woff2'),
+		url('../../2020/05/SFProDisplay-Semibold.woff') format('woff'),
+		url('../../2020/05/SFProDisplay-Semibold.ttf') format('truetype'),
+		url('../../2020/05/SFProDisplay-Semibold.svg#SFProDisplay') format('svg');
+}
+@font-face {
+	font-family: 'SFProDisplay';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2020/05/SFProDisplay-Medium.eot');
+	src: url('../../2020/05/SFProDisplay-Medium.eot#iefix') format('embedded-opentype'),
+		url('../../2020/05/SFProDisplay-Medium.woff2') format('woff2'),
+		url('../../2020/05/SFProDisplay-Medium.woff') format('woff'),
+		url('../../2020/05/SFProDisplay-Medium.ttf') format('truetype'),
+		url('../../2020/05/SFProDisplay-Medium.svg#SFProDisplay') format('svg');
+}
+@font-face {
+	font-family: 'SFProDisplay';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2020/05/SFProDisplay-Light.eot');
+	src: url('../../2020/05/SFProDisplay-Light.eot#iefix') format('embedded-opentype'),
+		url('../../2020/05/SFProDisplay-Light.woff2') format('woff2'),
+		url('../../2020/05/SFProDisplay-Light.woff') format('woff'),
+		url('../../2020/05/SFProDisplay-Light.ttf') format('truetype'),
+		url('../../2020/05/SFProDisplay-Light.svg#SFProDisplay') format('svg');
+}
+/* End Custom Fonts CSS */
